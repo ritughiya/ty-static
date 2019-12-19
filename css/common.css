@@ -365,7 +365,7 @@ width: 35vw;
 }
 
 
-@media only screen and (max-width: 700px) {
+@media only screen and (max-width: 800px) {
 body{
 font-size: 18px;
 }
