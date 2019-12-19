@@ -369,6 +369,11 @@ width: 35vw;
 body{
 font-size: 18px;
 }
+
+.image-grid iframe{
+	width: 90vw;
+}
+
 .sticky-header,
 .sticky-footer{
 	width: 96vw;
